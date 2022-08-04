@@ -1,0 +1,8 @@
+iniciando projeto CRA
+
+npx create-react-app nome_projeto --template typescript 
+
+
+iniciando projeto vite
+
+npm init vite projeto-vite --template react-ts <- criação de projeto com vite aplicando o react e typescript
