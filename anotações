@@ -6,3 +6,18 @@ npx create-react-app nome_projeto --template typescript
 iniciando projeto vite
 
 npm init vite projeto-vite --template react-ts <- criação de projeto com vite aplicando o react e typescript
+
+
+--------------------------
+
+O react trabalha atraves de componentes funcionais
+
+--------------------------
+
+expressoes são a forma de inserir as variaveis dentro do codigo "html" compilado pelo react
+
+sintaxe - colocasse o nome da variavel dentro de {variavelNome}
+
+let n1: number = 10;
+
+<div> O numero é: {n1}</div>
